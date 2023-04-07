@@ -48,5 +48,5 @@ In general, the Kickstarter campaign has greater success than failed, canceled, 
 Conclusion 3
 The time serious analysis of Kickstarter campaign has shown successful result in July. This may due to summer people start to go out for entertainment or theater. In the other category the begining’s of the year are the peak it may be due to a new year resolution started to be implemented.
 
-Limitations of the dataset
+Limitations of the dataset: 
 This dataset only includes a small sample of the population from all projects. To have a better insight, we need more samples.
