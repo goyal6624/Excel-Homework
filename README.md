@@ -7,7 +7,7 @@ To receive funding, the project must meet or exceed an initial goal, so many org
 Solution
 Conditional formatting was implimented to fill in each cell in the "state" and "Percent Funded" column with different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live. The "Percent Funded" also is newly created to uncover how much money a campaign made to reach its initial goal.
 
-images/figure1.png
+<img src="images/figure1.png">
 
 Conditional Formating
 
