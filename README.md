@@ -50,3 +50,5 @@ The time serious analysis of Kickstarter campaign has shown successful result in
 
 Limitations of the dataset: 
 This dataset only includes a small sample of the population from all projects. To have a better insight, we need more samples.
+
+Attached Report.pdf summarizes my findings in a report format.
